@@ -1,4 +1,3 @@
-from audioop import reverse
 import sys
 input = sys.stdin.readline    # 시간 초과 error를 해결하기 위한 input함수 재정의
 
